@@ -41,9 +41,26 @@ public class UserRepository : IUserRepository
         }
     }
 
+    public async Task<bool> Login(Login dto)
+    {
+        var parameters = new{
+            @Username = dto.UserName,
+            @Password = dto.Password
+        };
+        using (var conn = GetConnection())
+        {
+            if (conn.State != ConnectionState.Open) conn.Open();
+
+            string query = @"SELECT Id FROM TB_USER WHERE EMAIL = @Username and PASSWORD = @Password;";
+
+            var result = await conn.QueryAsync<string>(query, parameters);
+            return result.Any();
+        }
+    }
+
     private  SqlConnection GetConnection()
     {
-        return new SqlConnection(_configuration.GetConnectionString("sqlDB"));
+        return new SqlConnection(Environment.GetEnvironmentVariable("DB_CONNECTION_STRING"));
     }
 
 }

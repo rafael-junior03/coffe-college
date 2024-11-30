@@ -19,7 +19,7 @@ async function registerUser(event) {
             headers: {
                 'Content-Type': 'application/json',
             },
-            body: JSON.stringify({ name, email, password, dob }),
+            body: JSON.stringify({ name, email, password, birthDate: dob }),
         });
         if (response.ok) {
             alert('Usuário cadastrado com sucesso!');

@@ -5,7 +5,7 @@ using Site_Cafeteria.Repositories;
 namespace Site_Cafeteria.Controllers;
 
 [ApiController]
-[Route("[controller]")]
+[Route("user")]
 public class UserController : ControllerBase
 {
     private readonly IUserRepository _userRepository;
@@ -15,7 +15,7 @@ public class UserController : ControllerBase
         _userRepository = userRepository;
     }
 
-    [HttpPost]
+    [HttpPost("register")]
     public async Task<IActionResult> Post([FromBody] User user)
     {
         try
@@ -28,6 +28,25 @@ public class UserController : ControllerBase
         catch (Exception ex)
         {
             return StatusCode(500, ex.Message);
+        }
+    }
+
+    [HttpPost("login")]
+    public async Task<IActionResult> Login([FromBody] Login dto)
+    {
+        try
+        {
+            var result = await _userRepository.Login(dto);
+
+            if(!result) return StatusCode(401);
+
+            return Ok(
+                
+            );
+        }
+        catch (Exception ex)
+        {
+            return StatusCode(401, ex.Message);
         }
     }
 }
