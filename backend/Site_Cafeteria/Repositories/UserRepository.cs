@@ -60,7 +60,7 @@ public class UserRepository : IUserRepository
 
     private  SqlConnection GetConnection()
     {
-        return new SqlConnection(Environment.GetEnvironmentVariable("DB_CONNECTION_STRING"));
+        return new SqlConnection(_configuration.GetConnectionString("sqlDB"));
     }
 
 }
