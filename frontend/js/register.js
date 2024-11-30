@@ -14,7 +14,7 @@ async function registerUser(event) {
     }
 
     try {
-        const response = await fetch('https://site-cafateria.onrender.com/register', {
+        const response = await fetch('https://coffe-api-bqb0h3bgg5gyeaas.canadacentral-01.azurewebsites.net/User', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',

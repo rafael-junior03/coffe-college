@@ -13,6 +13,11 @@ builder.Services.AddScoped<IUserRepository, UserRepository>();
 var app = builder.Build();
 
 app.UseSwagger();
+app.UseCors(x => {
+    x.AllowAnyHeader();
+    x.AllowAnyOrigin();
+    x.AllowAnyMethod();
+});
 app.UseSwaggerUI();
 
 app.UseHttpsRedirection();
