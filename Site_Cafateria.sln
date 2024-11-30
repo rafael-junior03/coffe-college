@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "backend", "backend", "{DAABEEB3-C6EA-4464-80C3-78D475E9572B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Site_Cafeteria", "backend\Site_Cafeteria\Site_Cafeteria.csproj", "{12620371-1959-4AD0-98E8-EFF3C9733740}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12620371-1959-4AD0-98E8-EFF3C9733740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12620371-1959-4AD0-98E8-EFF3C9733740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12620371-1959-4AD0-98E8-EFF3C9733740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12620371-1959-4AD0-98E8-EFF3C9733740}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{12620371-1959-4AD0-98E8-EFF3C9733740} = {DAABEEB3-C6EA-4464-80C3-78D475E9572B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {680EC08D-CBA1-47C1-BA60-990E91144FFC}
+	EndGlobalSection
+EndGlobal
