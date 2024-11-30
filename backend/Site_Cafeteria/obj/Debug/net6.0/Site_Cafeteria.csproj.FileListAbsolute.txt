@@ -37,3 +37,43 @@ c:\Users\rafae\Documents\Projetos\Site_Cafateria\backend\Site_Cafeteria\obj\Debu
 c:\Users\rafae\Documents\Projetos\Site_Cafateria\backend\Site_Cafeteria\obj\Debug\net6.0\Site_Cafeteria.pdb
 c:\Users\rafae\Documents\Projetos\Site_Cafateria\backend\Site_Cafeteria\obj\Debug\net6.0\Site_Cafeteria.genruntimeconfig.cache
 c:\Users\rafae\Documents\Projetos\Site_Cafateria\backend\Site_Cafeteria\obj\Debug\net6.0\ref\Site_Cafeteria.dll
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\bin\Debug\net6.0\appsettings.Development.json
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\bin\Debug\net6.0\appsettings.json
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\bin\Debug\net6.0\Site_Cafeteria.exe
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\bin\Debug\net6.0\Site_Cafeteria.deps.json
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\bin\Debug\net6.0\Site_Cafeteria.runtimeconfig.json
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\bin\Debug\net6.0\Site_Cafeteria.dll
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\bin\Debug\net6.0\Site_Cafeteria.pdb
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\bin\Debug\net6.0\Dapper.dll
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\bin\Debug\net6.0\Microsoft.OpenApi.dll
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\bin\Debug\net6.0\System.Data.SqlClient.dll
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\obj\Debug\net6.0\Site_Cafeteria.csproj.AssemblyReference.cache
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\obj\Debug\net6.0\Site_Cafeteria.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\obj\Debug\net6.0\Site_Cafeteria.AssemblyInfoInputs.cache
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\obj\Debug\net6.0\Site_Cafeteria.AssemblyInfo.cs
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\obj\Debug\net6.0\Site_Cafeteria.csproj.CoreCompileInputs.cache
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\obj\Debug\net6.0\Site_Cafeteria.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\obj\Debug\net6.0\Site_Cafeteria.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\obj\Debug\net6.0\Site_Cafeteria.sourcelink.json
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\obj\Debug\net6.0\staticwebassets.build.json
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\obj\Debug\net6.0\staticwebassets.development.json
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\obj\Debug\net6.0\staticwebassets\msbuild.Site_Cafeteria.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\obj\Debug\net6.0\staticwebassets\msbuild.build.Site_Cafeteria.props
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Site_Cafeteria.props
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Site_Cafeteria.props
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\obj\Debug\net6.0\staticwebassets.pack.json
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\obj\Debug\net6.0\scopedcss\bundle\Site_Cafeteria.styles.css
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\obj\Debug\net6.0\Site_Cafeteria.csproj.CopyComplete
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\obj\Debug\net6.0\Site_Cafeteria.dll
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\obj\Debug\net6.0\refint\Site_Cafeteria.dll
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\obj\Debug\net6.0\Site_Cafeteria.pdb
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\obj\Debug\net6.0\Site_Cafeteria.genruntimeconfig.cache
+c:\Users\Rafael Evangelista\Documents\Projetos\coffe-college\backend\Site_Cafeteria\obj\Debug\net6.0\ref\Site_Cafeteria.dll
