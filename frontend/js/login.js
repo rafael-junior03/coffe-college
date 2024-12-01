@@ -15,7 +15,7 @@ async function loginUser(event) {
         return;
     }
     try {
-        const response = await fetch('https://localhost:7068/user/login', {
+        const response = await fetch('https://coffe-api-bqb0h3bgg5gyeaas.canadacentral-01.azurewebsites.net/user/login', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bn9R8Qkk4J16KMCK5DP097sKSR2DCnh0nHONYbZUG4Cn357/Bj+QThUKj6Ay7j9zMZerv3ZrFFx9T2OiH4N0qg==",
+  "dgSpecHash": "kFF8Kj330oueityTOL5ujlbtqjfT7LPGwAdbyNGeHJiU+0SBAnbBT3lAEpvlZjufxx33DOiJYAVH10JUh0ZU6A==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Rafael Evangelista\\Documents\\Projetos\\coffe-college\\backend\\Site_Cafeteria\\Site_Cafeteria.csproj",
+  "projectFilePath": "C:\\Users\\Rafael Evangelista\\Documents\\Projetos\\coffe-college\\backend\\Site_Cafeteria\\Site_Cafeteria.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafael Evangelista\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\Rafael Evangelista\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

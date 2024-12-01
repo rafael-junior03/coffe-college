@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Rafael Evangelista\\Documents\\Projetos\\coffe-college\\backend\\Site_Cafeteria\\Site_Cafeteria.csproj": {}
+    "C:\\Users\\Rafael Evangelista\\Documents\\Projetos\\coffe-college\\backend\\Site_Cafeteria\\Site_Cafeteria.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Rafael Evangelista\\Documents\\Projetos\\coffe-college\\backend\\Site_Cafeteria\\Site_Cafeteria.csproj": {
+    "C:\\Users\\Rafael Evangelista\\Documents\\Projetos\\coffe-college\\backend\\Site_Cafeteria\\Site_Cafeteria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Rafael Evangelista\\Documents\\Projetos\\coffe-college\\backend\\Site_Cafeteria\\Site_Cafeteria.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael Evangelista\\Documents\\Projetos\\coffe-college\\backend\\Site_Cafeteria\\Site_Cafeteria.csproj",
         "projectName": "Site_Cafeteria",
-        "projectPath": "c:\\Users\\Rafael Evangelista\\Documents\\Projetos\\coffe-college\\backend\\Site_Cafeteria\\Site_Cafeteria.csproj",
+        "projectPath": "C:\\Users\\Rafael Evangelista\\Documents\\Projetos\\coffe-college\\backend\\Site_Cafeteria\\Site_Cafeteria.csproj",
         "packagesPath": "C:\\Users\\Rafael Evangelista\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Rafael Evangelista\\Documents\\Projetos\\coffe-college\\backend\\Site_Cafeteria\\obj\\",
+        "outputPath": "C:\\Users\\Rafael Evangelista\\Documents\\Projetos\\coffe-college\\backend\\Site_Cafeteria\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,7 +14,7 @@ async function registerUser(event) {
     }
 
     try {
-        const response = await fetch('https://coffe-api-bqb0h3bgg5gyeaas.canadacentral-01.azurewebsites.net/User', {
+        const response = await fetch('https://coffe-api-bqb0h3bgg5gyeaas.canadacentral-01.azurewebsites.net/user/register', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
